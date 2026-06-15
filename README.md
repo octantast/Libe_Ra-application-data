@@ -26,6 +26,21 @@
 | *Turn-based combat: moving toward the flower to restore KA next turn* | *Skill progression: upgrade points accumulate with each use, upgrades available mid-battle* |
 | ![Field Objects](Media/Screenshot8_Field_Objects.png) | ![Settings](Media/Screenshot9_Settings.png) |
 | *Expanding the battle field to include background objects - useful in combat and quests* | *Settings* |
+
+## 💴 Budget Breakdown & Production Schedule
+
+**Total: $5,000 · approx. 800,000 JPY**
+
+| Item | Cost |
+|------|------|
+| Fullstack Developer / Artist / Narrative Designer - 6 months · $700/mo | $4,200 |
+| Sound Design - fixed price | $500 |
+| Steam Direct fee + contingency | $300 |
+
+**Production Schedule:** Full Chapter 1 release on Steam by December 31, 2026 (6 months)
+
+Chapter 1 scope includes: several quests involving NPCs, items, and movement across locations, dialogues, designed combats and narrative arc resolution.
+
 ## 👥 Team
 
 | Name | Role |
