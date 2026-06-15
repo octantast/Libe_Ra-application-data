@@ -51,7 +51,6 @@ All previous studio projects were completed by this team.
 <p align="center">
   <img src="https://img.itch.zone/aW1hZ2UvNDU4MDYzNy8yNzMxMzQwMS5wbmc=/original/Y%2BgdVi.png" height="200"/>
   <img src="https://img.itch.zone/aW1hZ2UvNDYzNDc1Ni8yNzYxOTgyMi5wbmc=/794x1000/2GxMsw.png" height="200"/>  
-  <img src="https://img.itch.zone/aW1hZ2UvMzI2NTgzNC8xOTc2MTI1MC5wbmc=/794x1000/55LTJj.png" height="200"/>
 </p>
 
 ### Assets
