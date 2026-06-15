@@ -4,7 +4,9 @@
 ## 📥 Download & Play
 
 **Platform:** Windows PC  
-**Build:** [Download from /Build >](https://github.com/octantast/Libe_Ra-application-data/tree/main/Build)
+**Build:** [Source >](https://github.com/octantast/Libe_Ra-application-data/tree/main/Build)
+
+[[Download now](https://github.com/octantast/Libe_Ra-application-data/raw/refs/heads/main/Build/Libe_Ra_build.zip)]
 
 1. Download and extract the `.zip` file
 2. Run `Libe_Ra.exe`
