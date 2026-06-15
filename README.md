@@ -1,4 +1,5 @@
 # Libe_Ra (working title)
+[Download](#-download--play) · [Video](#-gameplay-video) · [Screenshots](#-screenshots) · [Budget](#-budget-breakdown--production-schedule) · [Team](#-team) · [Portfolio](#-portfolio)
 
 ## 📥 Download & Play
 
