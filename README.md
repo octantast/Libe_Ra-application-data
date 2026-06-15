@@ -46,8 +46,8 @@ Chapter 1 scope includes: several quests involving NPCs, items, and movement acr
 
 | Name | Role |
 |------|------|
-| **Dariia** | Fullstack Developer · Programmer · Artist · Narrative Designer |
-| **Yurii** | Sound Designer |
+| **[Dariia](https://www.octantastudio.com/2024/08/30/dariia-kainis/)** | Fullstack Developer · Programmer · Artist · Narrative Designer |
+| **[Yurii](https://www.octantastudio.com/2025/02/16/shvetsb/)** | Sound Designer |
 
 All previous studio projects were completed by this team.
 
