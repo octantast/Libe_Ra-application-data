@@ -49,6 +49,9 @@ All previous studio projects were completed by this team.
 | Objectivity | [itch.io](https://octantastudio.itch.io/objectivity) | Mini Game, Jam Winner (2025) |
 
 <p align="center">
+  
+  <img src="https://raw.githubusercontent.com/octantast/octantastudio_as_publisher/refs/heads/main/Brotula%20game/Brotula-file%20(1).png" height="200"/>  
+  <img src="https://github.com/octantast/octantastudio_as_publisher/blob/main/Brotula%20game/Brotula-file%20(2).png?raw=true" height="200"/>
   <img src="https://img.itch.zone/aW1hZ2UvNDU4MDYzNy8yNzMxMzQwMS5wbmc=/original/Y%2BgdVi.png" height="200"/>
   <img src="https://img.itch.zone/aW1hZ2UvNDYzNDc1Ni8yNzYxOTgyMi5wbmc=/794x1000/2GxMsw.png" height="200"/>  
 </p>
