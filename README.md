@@ -1,5 +1,4 @@
 # Libe_Ra (working title)
-[DOWNLOAD](#download) · [VIDEO](#gameplay) · [SCREENSHOTS](#screenshots) · [TEAM](#team) · [PORTFOLIO](#portfolio)
 
 ## 📥 Download & Play
 
