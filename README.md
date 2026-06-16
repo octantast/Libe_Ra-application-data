@@ -11,6 +11,10 @@
 1. Download and extract the `.zip` file
 2. Run `Libe_Ra.exe`
 
+📍 Current Stage
+
+The project is past the prototype phase. A downloadable build delivers a complete gameplay loop: free-roam NPC interaction, a reputation system, turn-based combat with planetary skill sets, mid-battle skill upgrades, field expansion with object spawn, and basic settings. Core visual identity — b/w + purple Egyptian aesthetic, custom shaders, geometric UI.
+
 ## 🎮 Gameplay Video
 
 [![Watch Gameplay](https://img.youtube.com/vi/G2aiQox0rTE/maxresdefault.jpg)](https://youtu.be/G2aiQox0rTE?si=PtNEi1J7MX5dIlSI)
