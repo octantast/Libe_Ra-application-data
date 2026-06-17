@@ -1,5 +1,5 @@
 # Libe_Ra (working title)
-[Download](#-download--play) · [Video](#-gameplay-video) · [Screenshots](#-screenshots) · [Budget](#-budget-breakdown--production-schedule) · [Team](#-team) · [Portfolio](#-portfolio)
+[Download](#-download--play) · [Video](#-gameplay-video) · [Screenshots](#-screenshots) · [Budget](#-budget-breakdown--production-schedule) · [Team](#-team) · [Portfolio](#-portfolio) · [Resume](#resume)
 
 ## 📥 Download & Play
 
@@ -80,5 +80,15 @@ All previous studio projects were completed by this team.
 ### Assets
 
 Active publisher on the **Unity Asset Store** · [Publisher Page >](https://assetstore.unity.com/publishers/109611)
+
+
+## Resume
+
+The Egyptian KA - life-force of the soul - is a bionic charge in the player's body in a future city where myth and technology have merged. Combat is not about destruction: it's about conviction. Neutralize an opponent's spirit to zero, and they join your formation.
+The player uses 10 planetary-mythological skills in both free-roam and combat. Approaching NPCs opens dialogue; an unconvinced NPC demands to be won over in battle; victory earns alliance. Recruited units unlock deeper access to the city's secrets. Defeat has a social cost: lost battles damage reputation with those involved, pushing future interactions from consent toward combat.
+Skills grow stronger through use and can be upgraded or reconfigured mid-battle, rewarding tactical flexibility.
+Beneath a utopian metropolis lies a dark mystery demanding clarity, will, and the right allies. The current build features NPC interaction, arena combat & skill progression.
+
+The current plan follows a chapter-based structure. We are ready to adapt the development direction based on the publisher's feedback.
 
 *© Octanta Studio 2026*
