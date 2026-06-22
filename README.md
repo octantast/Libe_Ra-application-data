@@ -94,6 +94,7 @@ All previous studio projects were completed by this team.
     </td>
   </tr>
 </table>
+
 ### Assets
 
 Active publisher on the **Unity Asset Store** · [Publisher Page >](https://assetstore.unity.com/publishers/109611)
