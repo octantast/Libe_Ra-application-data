@@ -69,18 +69,31 @@ All previous studio projects were completed by this team.
 | Jewellirium | [itch.io](https://octantastudio.itch.io/jewellirium) | Released (2023) |
 | Objectivity | [itch.io](https://octantastudio.itch.io/objectivity) | Mini Game, Jam Winner (2025) |
 
-<p align="center">
-  <a href="https://youtu.be/whJqORu9Xso?si=FQlVaTwMhXNcjNeg">
-    <img src="https://img.youtube.com/vi/whJqORu9Xso/hqdefault.jpg" height="200"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://youtu.be/C9zgDjqTRPc?si=eaGraJR7u9VBFrHa">
-    <img src="https://img.youtube.com/vi/C9zgDjqTRPc/hqdefault.jpg" height="200"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://youtu.be/v1j5yzKtnE8?si=nOI14I6OBRYcApmd">
-    <img src="https://img.youtube.com/vi/v1j5yzKtnE8/hqdefault.jpg" height="200"/>
-  </a>
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://youtu.be/whJqORu9Xso?si=FQlVaTwMhXNcjNeg">
+        <img src="https://img.youtube.com/vi/whJqORu9Xso/hqdefault.jpg" height="200"/>
+      </a><br/>
+      <strong>Brotula</strong><br/>
+      <em>Survival and genetic engineering in the ocean depths</em>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/C9zgDjqTRPc?si=eaGraJR7u9VBFrHa">
+        <img src="https://img.youtube.com/vi/C9zgDjqTRPc/hqdefault.jpg" height="200"/>
+      </a><br/>
+      <strong>Jewellirium</strong><br/>
+      <em>A jeweler-alchemist simulator set in the Renaissance</em>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/v1j5yzKtnE8?si=nOI14I6OBRYcApmd">
+        <img src="https://img.youtube.com/vi/v1j5yzKtnE8/hqdefault.jpg" height="200"/>
+      </a><br/>
+      <strong>Objectivity</strong><br/>
+      <em>A mini-game about blending color-perspectives into an objective view</em>
+    </td>
+  </tr>
+</table>
 ### Assets
 
 Active publisher on the **Unity Asset Store** · [Publisher Page >](https://assetstore.unity.com/publishers/109611)
